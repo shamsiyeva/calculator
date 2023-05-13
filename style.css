@@ -91,5 +91,5 @@ button:focus {
 }
 .italic__009{
     margin-left: 20rem;
-    position: absolute;
+    display: flex;
 }
