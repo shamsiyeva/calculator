@@ -89,7 +89,8 @@ button:focus {
 .number:hover{
     background: #333849ac;
 }
-.italic__009{
-    margin-left: 20rem;
+.italic__001{
+    margin-left: 45rem;
+    margin-top: -90em;
     display: flex;
 }
